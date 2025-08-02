@@ -1,0 +1,7 @@
+venv310/
+*.pyd
+*.dll
+*.exe
+__pycache__/
+*.pyc
+*.log
